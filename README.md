@@ -1,4 +1,5 @@
 ### Hi there 👋
+<text xmlns="http://www.w3.org/2000/svg" text-anchor="middle" alignment-baseline="middle" x="62%" y="51%" class="desc" style="fill:#f7f5f5;">Welcome to my GitHub profile! Put stars, fork and contribute!</text>
 
 <!--
 **RuslanMironov/RuslanMironov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

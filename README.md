@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Ruslan</a> </h1>
+<h1 align="center">Hi there, I'm Ruslan</a><img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h2 align="center"><img src="https://user-images.githubusercontent.com/73890975/216307638-d664fa26-3433-409a-8cb0-33d1923ea702.png" /></h2>
 
 
